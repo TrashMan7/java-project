@@ -1,2 +1,2 @@
-# java-project
+# Introduction to programming
 my school work
